@@ -38,6 +38,7 @@ class FreqStack:
         return most_freq_num
 
 freq_stack = FreqStack()
+
 freq_stack.push(5)
 freq_stack.push(7)
 freq_stack.push(5)
